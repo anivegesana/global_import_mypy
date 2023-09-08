@@ -1,0 +1,5 @@
+[project]
+name = "global_import_mypy"
+version = "0.0.0a0"
+dependencies = ["mypy"]
+
